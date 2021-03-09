@@ -21,4 +21,3 @@ ciudad = null
 console.log(ciudad)
 
 alert("Solo estoy probando esto")
-square("red")
